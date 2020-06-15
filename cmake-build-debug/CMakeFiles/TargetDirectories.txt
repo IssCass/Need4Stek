@@ -1,3 +1,0 @@
-/home/eventura/Epitech/AI/AIA_n4s_2019/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/eventura/Epitech/AI/AIA_n4s_2019/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/eventura/Epitech/AI/AIA_n4s_2019/cmake-build-debug/CMakeFiles/AIA_n4s_2019.dir

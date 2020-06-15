@@ -1,4 +1,0 @@
-/home/eventura/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/201.7223.86/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/eventura/Epitech/AI/AIA_n4s_2019
--- Configuring done
--- Generating done
--- Build files have been written to: /home/eventura/Epitech/AI/AIA_n4s_2019/cmake-build-debug
